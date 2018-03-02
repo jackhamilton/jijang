@@ -1,0 +1,10 @@
+.container {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: -20px !important;
+    overflow-y: scroll;
+    height: 90.8vh;
+}
+.barhider {
+    overflow-x: hidden;
+}

@@ -1,0 +1,20 @@
+.frame {
+    width: 20%;
+    text-align: center;
+}
+img {  
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    border-radius: 50%;
+    position:absolute; 
+    top:50%; 
+    margin-top:-5em;
+}
+.images {
+    float: right;
+    color: white;
+    align: left;
+    width: 70%;
+    overflow-x: hidden;
+}
