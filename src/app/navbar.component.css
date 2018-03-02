@@ -3,21 +3,22 @@
     /*background-color: #283747;*/
     overflow: hidden;
     width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    background-color: #1c2833;
+    transform: translateY(-10px);
 }
 .navbuttons {
     width: 50%;
     float: right;
     /*text-align: center;*/
-    transform: translateY(100%);
-    
+    transform: translateY(80%);
 }
 .name {
     float: left;
     color: #90AEC5;
-    width: 50%;
+    width: 32%;
     text-align: center;
     font-size: 36px;
     font-family: ubuntu;

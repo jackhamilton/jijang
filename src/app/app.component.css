@@ -7,8 +7,8 @@ img {
     width: 200px;
     vertical-align: middle;
     border-radius: 50%;
-    position:absolute; 
-    top:50%; 
+    position:fixed; 
+    top:50%;
     margin-top:-5em;
 }
 .images {
@@ -17,4 +17,6 @@ img {
     align: left;
     width: 70%;
     overflow-x: hidden;
+    padding-top: 60px;
+    padding-bottom: 20px;
 }
